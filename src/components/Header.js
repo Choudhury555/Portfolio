@@ -68,9 +68,9 @@ function Header(){
             </nav>
         </div>
             <div className="header-text">
-                <h1>{`⁅→`}<span style={{color:"lightgreen"}}>{text}</span></h1>
+                <h1>{`▶`}<span style={{color:"lightgreen"}}>{text}</span></h1>
                 {/* <p>DEVELOPER/PROGRAMMER</p> */}
-                <h1>Hi,I am Choudhury<span> Abhisek</span><br />From Odisha,India</h1>
+                <h1>Hi,I am <span> Abhisek</span><br />From Odisha,India</h1>
             </div>
         </div>
     </div>
